@@ -2,6 +2,6 @@ Life is a bucket of bugs and overclocked ram | 10 print "life's good" 20 goto he
 
 * OS: Debian|Arch
 * Machine: ThinkChad xSomething
-* Interests: Too many to list..
+* Interests: Too many 2 list..
 
 ---
